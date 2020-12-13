@@ -1,0 +1,20 @@
+ruan: https://github.com/vercel/next-learn-starter/tree/master/demo
+https://next-learn-starter.now.sh/
+
+
+
+https://github.com/pandax54/next-learn-starter
+https://github.com/vercel/next.js/tree/canary/examples/blog-starter
+
+
+
+
+
+https://github.com/remarkjs/remark-html
+https://github.com/remarkjs/remark
+https://github.com/jonschlinkert/gray-matter
+
+
+Fetching data
+https://nextjs.org/docs/basic-features/data-fetching#getstaticprops-static-generation
+https://nextjs.org/docs/basic-features/pages
